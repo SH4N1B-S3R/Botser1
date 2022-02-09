@@ -1,7 +1,7 @@
 //================================
-// [❗] BY LENO
+// [❗] BY SH4N1B
 // [❗] PRAKASHAM PARAKATTE💕
-// [❗] Credit Owns To Leno
+// [❗] Credit Owns To Leno ser🙂💖
 // [❗] Don't Message My Owner For File😊
 // [❗] Nallath Cheytha Nallath Kittum🙂
 // [❗] Appo pwolik🥳
@@ -16,7 +16,7 @@
 //================================
 
 //============[ THX TO ]============
-//[❗] Leno
+//[❗] SH4N1B
 //[❗] Friends
 //[❗] Haters
 //================================
@@ -69,7 +69,7 @@ const { getBuffer, getGroupAdmins, getRandom, start, info, success, close } = re
 const tictactoe = JSON.parse(fs.readFileSync("./database/tictactoe.json"))
 const tttawal = ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 nana = []
-tolol = 917560810451
+tolol = 918075168486
 const X = "❌"
 const O = "⭕️"
 const tunjuk = "👈"
@@ -114,11 +114,11 @@ nopref = false
 waktuafk = '-'
 alasanafk = '-'
 prefa = '-'
-namaowner = 'Leno'
+namaowner = 'SH4N1B'
 namabot = 'Bot Ser'
 fake = 'Bot Ser1 '
 yuz = '```'
-owner = '917560810451' //ganti pake no lu
+owner = '918075168486' //ganti pake no lu
 numbernye = '0'
 
 //JANGAN DI APA APAIN LAGI BODO
@@ -248,7 +248,7 @@ module.exports = denz = async (denz, mek) => {
 			only: {
 				group: '\`\`\`✰「 ᴜ ɴᴇᴇᴅs ᴛᴏ ʙᴇ ᴀɴ ᴀᴅᴍɪɴ🙂! 」\`\`\`',
 				ownerG: '\`\`\`✰「 ᴜ ɴᴇᴇᴅs ᴛᴏ ʙᴇ ᴀɴ ᴀᴅᴍɪɴ🙂! 」\`\`\`',
-				ownerB: '\`\`\`✰「 ᴛʜɪs ɪs sᴘᴇᴄɪᴀʟʟʏ ᴅᴇsɪɢɴᴇᴅ ғᴏʀ ʟᴇɴᴏ! 」\`\`\`',
+				ownerB: '\`\`\`✰「 ᴛʜɪs ɪs sᴘᴇᴄɪᴀʟʟʏ ᴅᴇsɪɢɴᴇᴅ ғᴏʀ 𝐬𝐡𝐚𝐧𝐢𝐛! 」\`\`\`',
 				admin: '\`\`\`✰「 ᴛʜɪs ɪs sᴘᴇᴄɪᴀʟʟʏ ᴅᴇsɪɢɴᴇᴅ ғᴏʀ ᴀᴅᴍɪɴs🙂! 」\`\`\`',
 				Badmin: '\`\`\`✰「 ɪ ɴᴇᴇᴅs ᴛᴏ ʙᴇ ᴀᴅᴍɪɴ! 」\`\`\`'
 			}
@@ -937,12 +937,12 @@ break
 				}
 				fcrew = await getBuffer(pporang)
 				var menusaya = `╔═════════════════❍
-║-ʜᴇʏ ${pushname}!!
+║-ʜᴇʏ ${pushname}!
 ║
 ║╾ ɴᴜᴍʙᴇʀ : @${sender.split('@')[0]}
 ║
 ║▬▭▬▭▬▭▬▭▬▭
-║╾ ᴄʀᴇᴀᴛᴏʀ : wa.me/917560810451
+║╾ ᴄʀᴇᴀᴛᴏʀ : wa.me/918075168486
 ║
 ║╾ ᴄʀᴇᴅɪᴛs : wa.me/${tolol}
 ║
@@ -983,7 +983,7 @@ break
 ║┣❏ 
 ║┣❏ *${prefix}speed*
 ║┣❏ 
-║┣❏ https://chat.whatsapp.com/CEAcbQyoHJKC0vZ1SYRfl1
+║┣❏ https:https://chat.whatsapp.com/EnSVTDRDw3KKfTVn5s8GTW
 ║┗━━⊱
 ╠═════⊱*「 ᴍᴇɴᴜ ʟɪsᴛ  」* 
 ║┏━━⊱
@@ -1012,22 +1012,22 @@ break
 ║┃
 ║┣❏ ᴜɴᴋɴᴏᴡɴ
 ║┣❏ 
-║┣❏ Lᴇɴᴏ
+║┣❏ 𝐒𝚮𝚲𝚴𝚰𝚩
 ║┣❏ 
 ║┣❏ Bᴏᴛ sᴇʀ
 ║┣❏ 
 ║┣❏ ✆ ʀᴇᴘᴏʀᴛ ʙᴜɢ?
 ║┣❏ 
-║┣❏ https://wa.me/917560810451
+║┣❏ https://wa.me/918075168486
 ║┣❏ 
 ║┣❏ ✆ ᴄʀᴇᴅɪᴛs ɢᴏᴇs ᴛᴏ!
 ║┣❏ 
 ║┣❏ https://wa.me/${tolol}
 ║┣❏ 
-║┣❏ https://t.me/mindcraxfx 
+║┣❏ https://chat.whatsapp.com/EnSVTDRDw3KKfTVn5s8GTW
 ║┣❏ ᴊᴏɪɴ ᴏʀ ᴜ ᴡɪʟʟ ʙᴇ ʜᴇᴄᴋᴇᴅ🚶‍♂️
 ║┣❏ 
-║┣❏  https://instagram.com/mindcrax.fx?utm_medium=copy_link
+║┣❏  https://instagram.com/shan_.x98?utm_medium=copy_link
 ║┣❏ ғᴏʟʟᴏᴡ ᴏʀ ᴜ ᴡɪʟʟ ʙᴇ ᴅᴇᴀᴅ🚶‍♂️
 ║┣❏ 
 ║┗━━━━*《 ${namabot} 》*
