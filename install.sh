@@ -59,21 +59,21 @@ if [ $umuruser -ge 11 ]
 then
 echo -e "\033[1;32mYou are of age to use Bot Ser\nWelcome Use Bot Ser Wisely And Don't Sell and Buy Bot Ser Scripts\033[0m"
 else
-echo -e "\033[1;31mYou Are Not Old Enough To Use  Bot Ser\nPromise To Use  Bot Ser Wisely And Don't Sell and Buy  Bot Ser Scripts\033[0m"
+echo -e "\033[1;31mYou Are Not Old Enough To Use  Shanib Ser\nPromise To Use  Shanib Ser Wisely And Don't Sell and Buy  Shanib Ser Scripts\033[0m"
 fi
 echo -e "> enter to next"
 read enter
 clear
-echo -e "\033[1;34m[ BOT SER ]\033[0m"
+echo -e "\033[1;34m[ SHANIB SER ]\033[0m"
 echo -e "\033[1;35mReport Bug\033[0m"
-echo "https://wa.me/917560810451"
+echo "https://wa.me/918075168486"
 echo -e "\033[1;35mInstagram\033[0m"
-echo "https://instagram.com/mr._.mindcracker"
+echo "https://instagram.com/shan._x98"
 echo -e "\033[1;34m[ INFO ]\033[0m"
 echo -e "\033[1;35mName : \033[0m""$namauser"
 echo -e "\033[1;35mAge : \033[0m""$umuruser"
 echo -e "\033[1;35mDate : \033[0m""$tinggaluser\n"
-echo -e "\033[1;33mBOT SER SUCCESSFULLY INSTALL TYPE NPM START TO RUN  BOT SER\033[0m"
+echo -e "\033[1;33mSHANIB SER SUCCESSFULLY INSTALL TYPE NPM START TO RUN  SHANIB SER\033[0m"
 echo -e "> enter to next"
 read enter
 clear
