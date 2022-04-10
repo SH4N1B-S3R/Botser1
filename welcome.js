@@ -84,7 +84,7 @@ module.exports = denz = async (denz, anu) => {
 \`\`\`Bio : ${thu.status}\`\`\`
 \`\`\`Tanggal : ${tanggalu}\`\`\`
 \`\`\`─────────────────\`\`\`
-\`\`\`𝙷𝚎𝚖𝚖𝚎 𝙰𝚍𝚖𝚒𝚗 𝚊𝚊𝚢𝚒🕊️𝙰𝚑𝚕𝚊𝚍𝚒𝚙𝚙𝚒𝚗🙂!\`\`\``
+\`\`\`𝙷𝚎𝚖𝚖𝚎 𝙰𝚍𝚖𝚒𝚗 𝚊𝚊𝚢𝚒🕊️𝙰𝚑𝚕𝚊𝚍𝚒𝚙𝚙𝚒𝚗🙂🏳️!\`\`\``
 			denz.sendMessage(mdata.id, buff, MessageType.image, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName":`${pushnem}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;${num.split('@')[0]};;;\nFN:${num.split('@')[0]}\nitem1.TEL;waid=${num.split('@')[0]}:${num.split('@')[0]}\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}, contextInfo: {"mentionedJid": [num]}, caption: teks})
 		} else if (anu.action == 'demote') {
 			myMonths = ["𝙹𝚊𝚗𝚞𝚊𝚛𝚢","𝙵𝚎𝚋𝚛𝚞𝚊𝚛𝚢","𝙼𝚊𝚛𝚌𝚑","𝙰𝚙𝚛𝚒𝚕","𝙼𝚊𝚢","Juni","𝙹𝚞𝚕𝚢","𝙰𝚞𝚐𝚞𝚜𝚝","𝚂𝚎𝚙𝚝𝚎𝚖𝚋𝚎𝚛","𝙾𝚌𝚝𝚘𝚋𝚎𝚛","𝙽𝚘𝚟𝚎𝚖𝚋𝚎𝚛","𝙳𝚎𝚌𝚎𝚖𝚋𝚎𝚛"];
