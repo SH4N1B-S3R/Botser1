@@ -1,7 +1,7 @@
 {
-  "name": "dcode-denpa",
+  "name": "SHANIB-SER",
   "version": "0.0.1",
-  "description": "crewbot",
+  "description": "SH4N1B",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "denpa",
+  "author": "SHANIB",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -47,10 +47,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcode-denpa/crewbot.git"
+    "url": "git+https://github.com/SH4N1B-S3R"
   },
   "bugs": {
-    "url": "https://github.com/dcode-denpa/crewbot/issues"
+    "url": "https://github.com/SH4N1B-S3R/Botser1/issues"
   },
-  "homepage": "https://github.com/dcode-denpa/crewbot#readme"
+  "homepage": "https://github.com/SH4N1B-S3R/Botser1#readme"
 }
