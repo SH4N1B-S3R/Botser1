@@ -44,6 +44,7 @@ npm start
 
 # THANKS TO
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`SH4N!B`](https://github.com/SH4N1B-S3R)
 * [`JinnSer`](https://github.com/JINN-SER)
 * [`AdithSer`](https://github.com/Adithhariuesrbot)
 * [`SpyroSer`](https://github.com/spyrosir45)
